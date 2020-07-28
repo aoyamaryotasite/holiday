@@ -160,8 +160,29 @@ font-size: 0.8rem;
   height: 200px;
   }
 
+  .concept{
+  border-bottom: 1px solid white;
+  }
+  
+  .concept p{
+    margin: 5%;
+    font-size: 0.8rem;
+  }
+  
+  .concept img{
+    width: 15%;
+    border-radius: 50%;
+  margin-bottom: 3%;
+  height: 15%;
+  }
+  
+  .explain{
+    margin-left: 5%;
+  }
+
 .cart p{
-  margin-bottom: 20px;
+  margin-bottom: auto;
+  margin-top: auto;
 }
 
 }
